@@ -36,5 +36,5 @@ This project focuses on:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/alx-listing-app.git
+git clone https://github.com/Wambuku/alx-listing-app.git
 cd alx-listing-app
